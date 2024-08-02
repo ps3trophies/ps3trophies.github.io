@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DownloadTitles on PS3トロフィーWiki</title>
+    <link>http://localhost:1313/downloadtitles/</link>
+    <description>Recent content in DownloadTitles on PS3トロフィーWiki</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/downloadtitles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>100円ゴミ箱</title>
+      <link>http://localhost:1313/downloadtitles/100%E5%86%86%E3%82%B4%E3%83%9F%E7%AE%B1/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/downloadtitles/100%E5%86%86%E3%82%B4%E3%83%9F%E7%AE%B1/</guid>
+      <description>100円ゴミ箱 獲得情報 メモ 製品情報 </description>
+    </item>
+  </channel>
+</rss>

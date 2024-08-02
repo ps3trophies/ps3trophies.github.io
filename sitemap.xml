@@ -2,14 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/disctitles/007_%E6%85%B0%E3%82%81%E3%81%AE%E5%A0%B1%E9%85%AC/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/downloadtitles/100%E5%86%86%E3%82%B4%E3%83%9F%E7%AE%B1/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/disctitles/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/downloadtitles/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test_title2/</loc>
+    <loc>http://localhost:1313/disctitles/test_title2/</loc>
     <lastmod>2024-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test_title1/</loc>
-    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/disctitles/test_title3/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
