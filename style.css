@@ -13,7 +13,6 @@ body
 
 header
 {
-    border-bottom : 1px solid #000;
     padding-top : 1%;
     padding-bottom : 1%;
 }
@@ -103,11 +102,19 @@ ul#globalNavi li.current a
     background-position: left center;
 }
 
-ul#globalNavi li a#navi_home,
-ul#globalNavi li a#navi_rss
+ul#globalNavi li a#navi_home
 {
 	font-size: 14px;
 	font-weight: bold;
+}
+
+ul#globalNavi:after
+{
+    height: 0;
+    visibility: hidden;
+    content: ".";
+    display: block;
+    clear: both;
 }
 
 /*============================================
@@ -123,18 +130,27 @@ TOPページ
 /*============================================
 TOPページ左カラム 
 ============================================*/
-.side_column_area
+#side_column_area
 {
     order: 0;
-    width: 30%;
+    width: 40%;
     padding-left: 1rem;
 }
 
-.side_column_area_head
+#side_column_area_head
 {
     font-weight : bold;
     text-align: left;
     margin-bottom : 1%;
+}
+
+#side_column_area_tag
+{
+    padding-left: 1rem;
+}
+#side_column_area_title
+{
+    padding-left: 2rem;
 }
 
 /*============================================
@@ -143,7 +159,7 @@ TOPページ右カラム
 .infotablearea
 {
     width : 60%;
-    max-width : 900px;
+    max-width : 1200px;
     margin-left: auto;
     margin-right : auto;
     order:1;
@@ -167,7 +183,7 @@ TOPページ右カラム
 .infotable
 {
     width : 100%;
-    height : 140px;
+    height : 240px;
     background-color: #fff;
     font-size: 0.9rem;
     border : 1px solid #000;
