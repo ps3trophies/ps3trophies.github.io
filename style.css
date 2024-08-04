@@ -123,7 +123,7 @@ TOPページ
 .top_contents
 {
     display: flex;
-    max-width: 960px;
+    max-width: 1500px;
     margin: auto;
 }
 
@@ -159,7 +159,7 @@ TOPページ右カラム
 .infotablearea
 {
     width : 60%;
-    max-width : 1200px;
+    max-width : 1500px;
     margin-left: auto;
     margin-right : auto;
     order:1;
@@ -208,7 +208,7 @@ TOPページ右カラム
 
 .contents
 {
-    width : 70%;
+    width : 1400px;
     margin-top : 3%;
     margin-left: auto;
     margin-right : auto;
