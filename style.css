@@ -47,7 +47,7 @@ td
 /*============================================
 ヘッダ
 ============================================*/
-.header_title
+#header_title
 {
     font-size : 1.2rem;
     font-weight: bold;
@@ -114,15 +114,6 @@ ul#globalNavi li a#navi_home
 {
 	font-size: 14px;
 	font-weight: bold;
-}
-
-ul#globalNavi:after
-{
-    height: 0;
-    visibility: hidden;
-    content: ".";
-    display: block;
-    clear: both;
 }
 
 /*============================================
